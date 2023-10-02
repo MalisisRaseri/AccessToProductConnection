@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AccessToProductConnection:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AccessToProductConnection_jar</output-path>
+    <root id="archive" name="AccessToProductConnection.jar">
+      <element id="module-output" name="AccessToProductConnection" />
+    </root>
+  </artifact>
+</component>
